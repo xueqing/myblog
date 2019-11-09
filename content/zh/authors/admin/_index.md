@@ -21,9 +21,14 @@ role: 软件开发工程师
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- SIP 协议
+- 算法与数据结构
 - 软件工程
-- 系统架构
+
+education:
+  courses:
+  - course: 计算机
+    institution: 北京大学
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,4 +54,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+hi，欢迎来到我的主页。
+
+一枚毕业于计算机专业的程序媛。喜欢阅读、电影、音乐和运动。

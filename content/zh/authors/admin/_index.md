@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: 软件开发工程师
 
 # Organizations/Affiliations
 # organizations:
@@ -21,9 +21,9 @@ role: Software Engineer
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- SIP(Session Initialization Protocol)
-- Software Architecture
-- Software Development
+- SIP 协议
+- 软件工程
+- 系统架构
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

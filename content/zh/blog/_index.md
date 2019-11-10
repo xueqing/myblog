@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 那些年的学习笔记
 
 # View.
 #   1 = List

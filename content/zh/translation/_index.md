@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 偶尔翻译一些英文文章
 
 # View.
 #   1 = List

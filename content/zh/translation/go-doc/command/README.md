@@ -1,8 +1,9 @@
 ---
-title: "go 命令学习"
+title: "前言"
 authors: [kiki]
 tags: [go-command]
 categories: [translation]
+weight: 1
 draft: false
 ---
 

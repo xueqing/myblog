@@ -1,8 +1,9 @@
 ---
-title: "Go 维基学习"
+title: "前言"
 authors: [kiki]
 tags: [go-doc-wiki]
 categories: [translation]
+weight: 1
 draft: false
 ---
 

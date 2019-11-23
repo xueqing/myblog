@@ -1,8 +1,9 @@
 ---
-title: "Golang 官方包"
+title: "前言"
 authors: [kiki]
 tags: [golang-pkg]
 categories: [translation]
+weight: 1
 draft: false
 ---
 

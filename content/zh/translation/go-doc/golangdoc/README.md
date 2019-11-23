@@ -1,8 +1,9 @@
 ---
-title: "Golang 官方文档"
+title: "前言"
 authors: [kiki]
 tags: [golang-doc]
 categories: [translation]
+weight: 1
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Markdown 规范"
 subtitle: ""
 summary: ""
 authors: [kiki]
-tags: [markdown]
+tags: [md]
 categories: [blog]
 date: 2019-11-10T16:22:30+08:00
 lastmod: 2019-11-10T16:22:30+08:00

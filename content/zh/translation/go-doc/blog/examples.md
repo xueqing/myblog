@@ -3,7 +3,7 @@ title: "Go 可测试的示例函数"
 authors: [kiki]
 tags: [go-blog]
 categories: [translation]
-draft: false
+draft: true
 ---
 
 参考 [Go 博客——Go 可测试的示例函数](https://blog.golang.org/examples)学习。

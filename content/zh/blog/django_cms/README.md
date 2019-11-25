@@ -1,5 +1,5 @@
 ---
-title: "django cms 学习"
+title: "前言"
 authors: [kiki]
 tags: [django]
 categories: [blog]

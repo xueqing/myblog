@@ -1,5 +1,5 @@
 ---
-title: "go 开发遇到的坑"
+title: "前言"
 authors: [kiki]
 tags: [go]
 categories: [blog]

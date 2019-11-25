@@ -1,5 +1,5 @@
 ---
-title: "学习 Go"
+title: "前言"
 authors: [kiki]
 tags: [go]
 categories: [blog]

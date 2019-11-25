@@ -1,5 +1,5 @@
 ---
-title: "git 教程"
+title: "前言"
 authors: [kiki]
 tags: [git]
 categories: [blog]

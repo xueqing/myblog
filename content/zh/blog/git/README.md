@@ -3,6 +3,7 @@ title: "git 教程"
 authors: [kiki]
 tags: [git]
 categories: [blog]
+weight: 1
 draft: false
 ---
 

@@ -245,11 +245,11 @@ Markdown 使用星号和底线作为标记强调字词的符号
 - 跟链接的方法区别在于前面加了个感叹号。行内式的图片语法 感叹号+方括号(图片名称)+圆括号(图片链接地址/图片相对路径)：  
   ![图片名称](http://media.52poke.com/wiki/0/0d/025Pikachu.png "皮卡丘__1")
 
-  ![皮卡丘__2](natsume.jpg)
+  ![penguin__2](/blog/markdown/natsume.jpg)
 
-  ![皮卡丘__2][pika]
+  ![penguin__2][pika]
 
-[pika]: natsume.jpg
+[pika]: /blog/markdown/natsume.jpg
 
 ### 分隔符
 

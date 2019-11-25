@@ -94,7 +94,7 @@ draft: false
   - Memcached 不支持复制
 - Memcached 在处理高流量网站方面更好：可以一次读大量信息，而且响应时间快。
 
-![Memcached 和 Redis 的集群](memcached_redis_cluster.jpg)
+![Memcached 和 Redis 的集群](/blog/database/memcached_redis_cluster.jpg)
 
 ### 6.2 选择 Redis
 

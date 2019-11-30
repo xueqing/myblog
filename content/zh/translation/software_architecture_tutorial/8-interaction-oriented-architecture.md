@@ -3,6 +3,7 @@ title: "8 面向交互的架构"
 authors: [kiki]
 tags: [sa]
 categories: [translation]
+weight: 9
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "4 面向对象泛型"
 authors: [kiki]
 tags: [sa]
 categories: [translation]
+weight: 5
 draft: false
 ---
 

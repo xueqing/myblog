@@ -3,6 +3,7 @@ title: "10 基于组件的架构"
 authors: [kiki]
 tags: [sa]
 categories: [translation]
+weight: 11
 draft: false
 ---
 

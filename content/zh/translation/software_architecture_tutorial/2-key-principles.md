@@ -3,6 +3,7 @@ title: "2 重要原则"
 authors: [kiki]
 tags: [sa]
 categories: [translation]
+weight: 3
 draft: false
 ---
 

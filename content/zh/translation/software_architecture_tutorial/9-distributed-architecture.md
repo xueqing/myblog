@@ -3,6 +3,7 @@ title: "9 分布式架构"
 authors: [kiki]
 tags: [sa]
 categories: [translation]
+weight: 10
 draft: false
 ---
 

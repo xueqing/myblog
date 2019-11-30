@@ -3,6 +3,7 @@ title: "6 以数据为中心的架构"
 authors: [kiki]
 tags: [sa]
 categories: [translation]
+weight: 7
 draft: false
 ---
 

@@ -6,7 +6,7 @@ categories: [translation]
 draft: false
 ---
 
-原文参考 [Binary-compatible C++ Interfaces](https://chadaustin.me/cppinterface.html)。
+翻译 [Binary-compatible C++ Interfaces](https://chadaustin.me/cppinterface.html)。
 
 作者：Chad Austin, 2002.02.15
 

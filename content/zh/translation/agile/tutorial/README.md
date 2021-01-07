@@ -1,7 +1,7 @@
 ---
 title: "前言"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 weight: 1
 draft: false

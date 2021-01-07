@@ -1,7 +1,7 @@
 ---
 title: "7 迭代计划"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---

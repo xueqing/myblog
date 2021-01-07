@@ -1,9 +1,9 @@
 ---
 title: "敏捷方法教程"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---
 
-[原网站](https://www.tutorialspoint.com/agile/index.htm)
+翻译 <https://www.tutorialspoint.com/agile/index.htm>

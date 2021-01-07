@@ -1,7 +1,7 @@
 ---
 title: "2 宣言"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---

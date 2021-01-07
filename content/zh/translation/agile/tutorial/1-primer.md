@@ -1,7 +1,7 @@
 ---
 title: "1 入门"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---

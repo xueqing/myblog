@@ -1,7 +1,7 @@
 ---
 title: "9 有用的术语"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---

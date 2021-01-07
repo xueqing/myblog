@@ -1,7 +1,7 @@
 ---
 title: "4 每日站会"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---

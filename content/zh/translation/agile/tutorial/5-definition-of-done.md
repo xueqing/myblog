@@ -1,7 +1,7 @@
 ---
 title: "5 完成标准"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---

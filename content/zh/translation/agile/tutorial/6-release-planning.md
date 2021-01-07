@@ -1,7 +1,7 @@
 ---
 title: "6 发布计划"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---

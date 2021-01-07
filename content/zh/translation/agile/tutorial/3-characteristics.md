@@ -1,7 +1,7 @@
 ---
 title: "3 特点"
 authors: [kiki]
-tags: [agile]
+tags: [敏捷]
 categories: [translation]
 draft: false
 ---
